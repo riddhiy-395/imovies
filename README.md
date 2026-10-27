@@ -1,3 +1,4 @@
+
 # IMovies — Movie ticket booking made simple
 
 A full-stack starter project using React + Vite, Express, MongoDB, and JWT. Includes movie browsing, registration/login, showtime selection, seat selection, booking history, and a demo seed endpoint.
@@ -22,3 +23,4 @@ Once the server is running, seed demo movies by opening `http://localhost:5001/a
 
 ## GitHub and demo links
 These links do not exist until you publish the project. Create a GitHub repository, push this folder, then deploy the frontend (e.g. Vercel) and backend (e.g. Render) and configure `VITE_API_URL` to the deployed API URL. Do not submit placeholder URLs as real links.
+# imovies
